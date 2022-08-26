@@ -1,0 +1,41 @@
+.main {
+    background: darkorange;
+    height:200px;
+    margin-right: 10%;
+    margin-left: 10%
+}
+
+#header {
+    color:white;
+    font-size: large;
+    text-align: center;
+
+}
+
+#toDo {
+    margin: auto;
+    height: 30px;
+    width: 720px;
+    font-size: small;
+    color: black;
+}
+
+#button {
+    margin: auto;
+    height: 30px;
+    width: 90px;
+}
+
+.list{
+    margin-right: 10%;
+    margin-left: 7%
+}
+
+ul > li{
+    height: 40px;
+    background-color: darkorange;
+    bottom:10%;
+    display: block;
+    margin: 10px;
+    text-align: center;
+}
